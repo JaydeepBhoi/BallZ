@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60111e6634ede493caf4e3a9886a82bf, type: 3}
+  m_Name: New Card
+  m_EditorClassIdentifier: 
+  shopsData:
+  - txt: 100
+    buttonBallIcon: {fileID: 21300000, guid: 995fd5386236b417ebe3dd9341010425, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 120
+    buttonBallIcon: {fileID: 21300000, guid: 7e6962cf75c584edebd0e818c5bde1db, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 150
+    buttonBallIcon: {fileID: 21300000, guid: cd7ac34684a2843029943db9215ae518, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 160
+    buttonBallIcon: {fileID: 21300000, guid: 107fbe2be965b4c61854cf0a42e83a5c, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 180
+    buttonBallIcon: {fileID: 21300000, guid: fc7ef92146eef4e3993af49d05135ce2, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 200
+    buttonBallIcon: {fileID: 21300000, guid: c828943a3bfcb49db9992c3ba07c2a62, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 230
+    buttonBallIcon: {fileID: 21300000, guid: efa04ac41096147459c49cdd39431b0f, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 250
+    buttonBallIcon: {fileID: 21300000, guid: cf8ad95719a3e4a5392536c6ab331dd0, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 300
+    buttonBallIcon: {fileID: 21300000, guid: cd7ac34684a2843029943db9215ae518, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 380
+    buttonBallIcon: {fileID: 21300000, guid: efa04ac41096147459c49cdd39431b0f, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
+  - txt: 450
+    buttonBallIcon: {fileID: 21300000, guid: 7b31ee73b7c2e4350a3fde832454c4c3, type: 3}
+    lockImage: {fileID: 21300000, guid: 9077fdabfcaf849b98c6baa6c53076c9, type: 3}
